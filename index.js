@@ -1,3 +1,4 @@
 import { initRepository } from "./initRepo.js";
 
-initRepository();
+
+initRepository(process.cwd());
