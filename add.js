@@ -209,4 +209,4 @@ const add = (repoPath, filesToStage) => {
   })
 }
 
-export { storeObject, hashObject, add }
+export { storeObject, hashObject, add, readIndex }
